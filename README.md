@@ -88,9 +88,7 @@ class Niruss:
 <img src="https://img.shields.io/badge/Mood-Creative%20Mode-9D4EDD?style=for-the-badge&logo=adobe&logoColor=white&labelColor=0F0F1B" />
 </div>
 
-<div align="center" style="background: linear-gradient(90deg, #FF007A, #00E6FF); height: 4px; border-radius: 2px; margin: 20px 0;"> </div>
-
-<div align="left" style="background: #1A1A2E; padding: 20px; border-radius: 10px;">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
     
 ```bash
  $ echo "Thanks for visiting! 🚀"
