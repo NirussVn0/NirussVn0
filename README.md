@@ -7,7 +7,7 @@
 </pre>
 </div>
 
-<div align="center" style="background: linear-gradient(90deg, #FF007A, #00E6FF); height: 4px; border-radius: 2px; margin: 20px 0;"></div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <h2 style="color: #00E6FF;"> 🌌 About Me </h2> 
 <div align="left" style="background: #1A1A2E; padding: 20px; border-radius: 10px;">
@@ -34,7 +34,7 @@ class Niruss:
 ```
 </div>
 
-<div align="center" style="background: linear-gradient(90deg, #FF007A, #00E6FF); height: 4px; border-radius: 2px; margin: 20px 0;"></div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🛠️ Tech Box
 
@@ -42,7 +42,7 @@ class Niruss:
 <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,html,css,js,ts,tailwind,sass,bootstrap,nodejs,python,express,mongodb,mysql,unity,cs,c,cpp,docker,nginx,linux,bash,git,photoshop,illustrator,aftereffects,blender,figma&theme=dark&perline=10" />
 </div>
 
-<div align="center" style="background: linear-gradient(90deg, #FF007A, #00E6FF); height: 4px; border-radius: 2px; margin: 20px 0;"></div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 📊 GitHub Stats
 
@@ -57,7 +57,7 @@ class Niruss:
 </table>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirussvn0&theme=highcontrast&bg_color=0F0F1B&color=00E6FF&line=FF007A&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-<div align="center" style="background: linear-gradient(90deg, #FF007A, #00E6FF); height: 4px; border-radius: 2px; margin: 20px 0;"></div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🌐 Join the Matrix
 
@@ -81,14 +81,14 @@ class Niruss:
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0F1B&color=00E6FF" alt="LinkedIn"/>
 </a>
 </div>
+
 <div>
 <img src="https://img.shields.io/badge/Status-Coding%20%26%20Chill-00E6FF?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0F0F1B" />
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FF007A?style=for-the-badge&logo=react&logoColor=white&labelColor=0F0F1B" />
 <img src="https://img.shields.io/badge/Mood-Creative%20Mode-9D4EDD?style=for-the-badge&logo=adobe&logoColor=white&labelColor=0F0F1B" />
 </div>
-</div>
 
-<div align="center" style="background: linear-gradient(90deg, #FF007A, #00E6FF); height: 4px; border-radius: 2px; margin: 20px 0;"></div>
+<div align="center" style="background: linear-gradient(90deg, #FF007A, #00E6FF); height: 4px; border-radius: 2px; margin: 20px 0;"> </div>
 
 <div align="left" style="background: #1A1A2E; padding: 20px; border-radius: 10px;">
     
