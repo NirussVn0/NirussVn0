@@ -5,7 +5,6 @@
 <pre align="center" style="background: #0F0F1B; padding: 15px; border-radius: 10px; color: #00E6FF; font-family: 'Fira Code', monospace;">
     [SYSTEM]: ONLINE ✅ | [MODE]: CODING & CHILL 🎧 | [EFFECT]: ☕ + SUPPORTED
 </pre>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
