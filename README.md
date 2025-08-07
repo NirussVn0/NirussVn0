@@ -48,7 +48,8 @@ class Niruss:
 <table style="width: 100%; background: #1A1A2E; border-radius: 10px; padding: 10px;">
 <tr>
   <td width=51%><img position=relative align="left" width="100%" src="https://nirzak-streak-stats.vercel.app/?user=nirussvn0&theme=highcontrast&hide_border=true&background=0F0F1B&stroke=00E6FF&ring=FF007A&fire=FF007A&currStreakNum=00E6FF&sideNums=00E6FF&currStreakLabel=00E6FF&sideLabels=00E6FF&dates=FFFFFF"/></td>
-  <td width=49%><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=nirussvn0&show_icons=true&locale=en&theme=highcontrast&hide_border=true&bg_color=0F0F1B&title_color=00E6FF&text_color=FFFFFF&icon_color=FF007A"/></td>
+  <td width=49%><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=NirussVn0&show_icons=true&locale=en&theme=highcontrast&hide_border=true&bg_color=0F0F1B&title_color=00E6FF&text_color=FFFFFF&icon_color=FF007A"/>
+  </td>
 </tr>
 <tr>
   <td colspan=2><div align=center><img src="https://github-profile-trophy.vercel.app?username=nirussvn0&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" alt="trophy graph"/></div></td>
