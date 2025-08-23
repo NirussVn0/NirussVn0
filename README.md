@@ -8,40 +8,58 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<h2 style="color: #00E6FF;"> 🌌 About Me </h2> 
+
 <div align="left" style="background: #1A1A2E; padding: 20px; border-radius: 10px;">
+    
+## 🌌 About Me
+    
+<div align="center" style="background: #1A1A2E; padding: 20px; border-radius: 10px;">
+<table>
+<tr>
+<td width="60%" valign="top">
+
+- self.nickname "Minazuki Niruss" (VN 🇻🇳)
+- fullname = 0b110100101001110101001110001010  # DM for decode
+- location is The Matrix 🌐
+- Fullstack dev 💻 and Content Creator ☕
+- My purpose is to generate meaningful impact in life
+- Daily = Code, Game-scripts, Digital Art, chill with coffee++ ☕
+
+<i>" Code with passion, design with purpose, chill with style" </i>
+
+<p>
+  <a href="https://discord.gg/5Naa9X9W7f">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1021&color=A78BFA" />
+  </a>
+  <a href="mailto:work.niruss.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1021&color=F472B6" />
+  </a>
+  <a href="https://twitter.com/nirussvn0">
+    <img src="https://img.shields.io/badge/X_(Twitter)-111111?style=for-the-badge&logo=x&logoColor=white&labelColor=0B1021&color=A78BFA" />
+  </a>
+  <a href="https://github.com/nirussvn0">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1021&color=34D399" />
+  </a>
+  <a href="https://linkedin.com/in/nirussvn0">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1021&color=A78BFA" />
+  </a>
+</p>
+
+</td>
+<td width="40%" align="center" valign="top">
+    <img src=https://i.pinimg.com/1200x/56/ef/1d/56ef1d2b1b6bbfdc24a3742baaebd559.jpg >
+</td>
+</table>
+
 <img alt="Coding" src="https://lanyard.cnrad.dev/api/1195303714777468988" width="400" style="float: right; margin: 0 0 1em 1em; border: 2px solid #FF007A; border-radius: 8px;">
 
-```python
-class Niruss:
-    def __init__(self):
-        self.nickname = "Minazuki Niruss"
-        self.fullname = 0b110100101001110101001110001010  # DM for decode
-        self.nationality = "VietNam 🇻🇳"
-        self.location = "The Matrix 🌐"
-        self.role = ["developer", "designer", "life player"]
-
-    def daily(self):
-        return ["☕ Coffee++",
-                "💻 Code",
-                "🎮 GamesScript",
-                "🎨 Digital#Art",
-                "🎧 Chill"]
-
-    def life_philosophy(self):
-        return "Code with passion, design with purpose, chill with style"
-```
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 🛠️ Tech Box
 
 <div align="center" style="background: #0F0F1B; padding: 20px; border-radius: 10px;">
 <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,html,css,js,ts,tailwind,sass,bootstrap,nodejs,python,express,mongodb,mysql,unity,cs,c,cpp,docker,nginx,linux,bash,git,photoshop,illustrator,aftereffects,blender,figma&theme=dark&perline=10" />
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ## 📊 GitHub Stats
 
@@ -57,36 +75,7 @@ class Niruss:
 </table>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirussvn0&theme=highcontrast&bg_color=0F0F1B&color=00E6FF&line=FF007A&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 🌐 Join the Matrix
-
-<div align="center" style="background: #0F0F1B; padding: 20px; border-radius: 10px;">
-
-### "Let's Build Something Amazing Together!"
-<div style="margin: 20px 0;">
-<a href="https://discord.gg/5Naa9X9W7f">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0F0F1B&color=00E6FF" alt="Discord"/>
-</a>
-<a href="mailto:work.niruss.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0F1B&color=FF007A" alt="Email"/>
-</a>
-<a href="https://twitter.com/nirussvn0">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0F0F1B&color=00E6FF" alt="Twitter"/>
-</a>
-<a href="https://github.com/nirussvn0">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0F1B&color=FF007A" alt="GitHub"/>
-</a>
-<a href="https://linkedin.com/in/nirussvn0">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0F1B&color=00E6FF" alt="LinkedIn"/>
-</a>
-</div>
-
-<div>
-<img src="https://img.shields.io/badge/Status-Coding%20%26%20Chill-00E6FF?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0F0F1B" />
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-FF007A?style=for-the-badge&logo=react&logoColor=white&labelColor=0F0F1B" />
-<img src="https://img.shields.io/badge/Mood-Creative%20Mode-9D4EDD?style=for-the-badge&logo=adobe&logoColor=white&labelColor=0F0F1B" />
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
     
