@@ -62,19 +62,27 @@
 </div>
 
 ## 📊 GitHub Stats
-
 <table style="width: 100%; background: #1A1A2E; border-radius: 10px; padding: 10px;">
-<tr>
-  <td width=51%><img position=relative align="left" width="100%" src="https://nirzak-streak-stats.vercel.app/?user=nirussvn0&theme=highcontrast&hide_border=true&background=0F0F1B&stroke=00E6FF&ring=FF007A&fire=FF007A&currStreakNum=00E6FF&sideNums=00E6FF&currStreakLabel=00E6FF&sideLabels=00E6FF&dates=FFFFFF"/></td>
-  <td width=49%><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=NirussVn0&show_icons=true&locale=en&theme=highcontrast&hide_border=true&bg_color=0F0F1B&title_color=00E6FF&text_color=FFFFFF&icon_color=FF007A"/>
-  </td>
-</tr>
-<tr>
-  <td colspan=2><div align=center><img src="https://github-profile-trophy.vercel.app?username=nirussvn0&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" alt="trophy graph"/></div></td>
-</tr>
+  <tr>
+    <td style="width: 51%;">
+      <img style="position: relative; float: left; width:100%;" 
+           src="https://nirzak-streak-stats.vercel.app/?user=nirussvn0&theme=highcontrast&hide_border=true&background=0F0F1B&stroke=00E6FF&ring=FF007A&fire=FF007A&currStreakNum=00E6FF&sideNums=00E6FF&currStreakLabel=00E6FF&sideLabels=00E6FF&dates=FFFFFF"/>
+    </td>
+    <td style="width: 49%;">
+      <img style="float: right; width:100%;" 
+           src="https://github-readme-stats.vercel.app/api?username=nirussvn0&show_icons=true&locale=en&theme=highcontrast&hide_border=true&bg_color=0F0F1B&title_color=00E6FF&text_color=FFFFFF&icon_color=FF007A"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <div align="center">
+        <img src="https://github-trophies.vercel.app/?username=NirussVn0&theme=tokyonight&no-frame=true&order=4"/>
+      </div>
+    </td>
+  </tr>
 </table>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirussvn0&theme=highcontrast&bg_color=0F0F1B&color=00E6FF&line=FF007A&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirussvn0&theme=highcontrast&bg_color=0F0F1B&color=00E6FF&line=FF007A&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
