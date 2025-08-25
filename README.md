@@ -10,6 +10,11 @@
 
 
 <div align="left" style="background: #1A1A2E; padding: 20px; border-radius: 10px;">
+
+
+###
+
+
     
 ## 🌌 About Me
     
@@ -52,14 +57,21 @@
 </table>
 
 <img alt="Coding" src="https://lanyard.cnrad.dev/api/1195303714777468988" width="400" style="float: right; margin: 0 0 1em 1em; border: 2px solid #FF007A; border-radius: 8px;">
-
 </div>
+
+
+###
+
 
 ## 🛠️ Tech Box
 
 <div align="center" style="background: #0F0F1B; padding: 20px; border-radius: 10px;">
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,html,css,js,ts,tailwind,sass,bootstrap,nodejs,python,express,mongodb,mysql,unity,cs,c,cpp,docker,nginx,linux,bash,git,photoshop,illustrator,aftereffects,blender,figma&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=nextjs,nestjs,nuxtjs,tailwindcss,nodejs,python,mongodb,cs,docker,linux&theme=dark&perline=10" />
 </div>
+
+
+###
+
 
 ## 📊 GitHub Stats
 <table style="width: 100%; background: #1A1A2E; border-radius: 10px; padding: 10px;">
@@ -83,7 +95,6 @@
 </table>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirussvn0&theme=highcontrast&bg_color=0F0F1B&color=00E6FF&line=FF007A&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
     
