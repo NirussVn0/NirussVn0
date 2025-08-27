@@ -56,7 +56,6 @@
 </td>
 </table>
 
-<img alt="Coding" src="https://lanyard.cnrad.dev/api/1195303714777468988" width="400" style="float: right; margin: 0 0 1em 1em; border: 2px solid #FF007A; border-radius: 8px;">
 </div>
 
 
