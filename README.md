@@ -14,11 +14,12 @@
 
 ###
 
-
     
 ## 🌌 About Me
     
 <div align="center" style="background: #1A1A2E; padding: 20px; border-radius: 10px;">
+
+
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -33,6 +34,9 @@
 <i>" Code with passion, design with purpose, chill with style" </i>
 
 <p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=nirussvn0&label=Profile%20views&color=34D399&style=plastic?" alt="7oSkaaa" height=25rem, width=110rem/>
+  </p>
   <a href="https://discord.gg/5Naa9X9W7f">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1021&color=A78BFA" />
   </a>
@@ -40,13 +44,13 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1021&color=F472B6" />
   </a>
   <a href="https://twitter.com/nirussvn0">
-    <img src="https://img.shields.io/badge/X_(Twitter)-111111?style=for-the-badge&logo=x&logoColor=white&labelColor=0B1021&color=A78BFA" />
+    <img src="https://img.shields.io/badge/X_(Twitter)-111111?style=for-the-badge&logo=x&logoColor=white&labelColor=0B1021&color=34D399" />
   </a>
   <a href="https://github.com/nirussvn0">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1021&color=34D399" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1021&color=A78BFA" />
   </a>
   <a href="https://linkedin.com/in/nirussvn0">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1021&color=A78BFA" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedIn&logoColor=white&labelColor=0B1021&color=F472B6" />
   </a>
 </p>
 
