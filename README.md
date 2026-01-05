@@ -1,42 +1,37 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00E6FF&background=1A1A2E&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+the+Matrix...;System+Access+Granted;Hello+World%2C+I'm+Niruss;Someone+Developer+%7C+Designer;Coding+%26+Chill+Mode+Activated" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00E6FF&background=1A1A2E&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+the+Matrix...;System+Access+Granted;Hello+World%2C+I'm+Niruss;Someone+Developer+%7C+Designer;Coding+%26+Chill+Mode+Activated" alt="Typing SVG" />
+</a>
 
-<pre align="center" style="background: #0F0F1B; padding: 15px; border-radius: 10px; color: #00E6FF; font-family: 'Fira Code', monospace;">
-    [SYSTEM]: ONLINE ✅ | [MODE]: CODING & CHILL 🎧 | [EFFECT]: ☕ + SUPPORTED
-</pre>
+<br/>
+<code>[SYSTEM]: ONLINE ✅ | [MODE]: CODING & CHILL 🎧 | [EFFECT]: ☕ + SUPPORTED</code>
+<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+</div>
 
-<div align="left" style="background: #1A1A2E; padding: 20px; border-radius: 10px;">
-
-
-###
-
-    
 ## 🌌 About Me
-    
-<div align="center" style="background: #1A1A2E; padding: 20px; border-radius: 10px;">
-
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-- self.nickname "Minazuki Niruss" (VN 🇻🇳)
-- fullname = 00110100101001110101001110001010  # DM for decode
-- location is The Matrix 🌐
-- Fullstack dev 💻 and Content Creator ☕
-- My purpose is to generate meaningful impact in life
-- Daily = Code, Game-scripts, Digital Art, chill with coffee++ ☕
+- <code>self.nickname</code> "Minazuki Niruss" (VN 🇻🇳)
+- <code>fullname</code> = 0011010010100111... (DM for decode)
+- <b>Location:</b> The Matrix 🌐
+- <b>Role:</b> Fullstack Dev 💻 & Content Creator ☕
+- <b>Mission:</b> Generate meaningful impact in life
+- <b>Daily:</b> Code, Game-scripts, Digital Art, Coffee++ ☕
 
-<i>" Code with passion, design with purpose, chill with style" </i>
+<br/>
+<i>"Code with passion, design with purpose, chill with style"</i>
+<br/><br/>
 
-<p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=nirussvn0&label=Profile%20views&color=34D399&style=plastic?" alt="7oSkaaa" height=25rem, width=110rem/>
-  </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nirussvn0&label=Profile%20views&color=34D399&style=plastic" alt="Profile Views" />
+  <br/>
   <a href="https://discord.gg/5Naa9X9W7f">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1021&color=A78BFA" />
   </a>
@@ -55,57 +50,77 @@
 </p>
 
 </td>
-<td width="40%" align="center" valign="top">
-    <img src=https://i.pinimg.com/1200x/56/ef/1d/56ef1d2b1b6bbfdc24a3742baaebd559.jpg >
+<td width="40%" valign="top" align="center">
+    <img src="https://i.pinimg.com/1200x/56/ef/1d/56ef1d2b1b6bbfdc24a3742baaebd559.jpg" width="100%" />
 </td>
+</tr>
 </table>
-
-</div>
-
-
-###
-
 
 ## 🛠️ My Proficiency
-<h2 align="center"> Fullstack Dev - Fintech - AI - UI/UX - Designer </h2> 
-<div align="center" style="background: #0F0F1B; padding: 20px; border-radius: 10px;">
-<img src="https://skillicons.dev/icons?i=nextjs,nestjs,nuxtjs,tailwindcss,nodejs,python,mongodb,cs,cpp,rust,linux,git,docker,kubernetes&theme=dark&perline=7" />
+
+<h3 align="center"> Fullstack Dev - Fintech - AI - UI/UX - Designer </h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,nuxtjs,tailwindcss,nodejs,python,mongodb,cs,cpp,rust,linux,git,docker,kubernetes&theme=dark&perline=7" />
 </div>
 
+## 💻 Languages I've Coded With
 
-###
+**TypeScript** ![TypeScript](https://img.shields.io/badge/TypeScript-17%20projects-3178C6?style=flat-square)
 
+```
+████████████████████░░░░░░░░░░░░░░░░░░░░░░░░ 43.6%
+```
+
+**JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-4%20projects-F7DF1E?style=flat-square)
+
+```
+██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10.3%
+```
+
+**Python** ![Python](https://img.shields.io/badge/Python-4%20projects-3776AB?style=flat-square)
+
+```
+██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10.3%
+```
+
+**HTML** ![HTML](https://img.shields.io/badge/HTML-2%20projects-E34C26?style=flat-square)
+
+```
+███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 5.1%
+```
+
+**Other Languages** (Java, Dockerfile, Astro, QML, Shell)
+
+```
+████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 20.5%
+```
 
 ## 📊 GitHub Stats
-<table style="width: 100%; background: #1A1A2E; border-radius: 10px; padding: 10px;">
+
+<table width="100%">
   <tr>
-    <td style="width: 51%;">
-      <img style="position: relative; float: left; width:100%;" 
-           src="https://nirzak-streak-stats.vercel.app/?user=nirussvn0&theme=highcontrast&hide_border=true&background=0F0F1B&stroke=00E6FF&ring=FF007A&fire=FF007A&currStreakNum=00E6FF&sideNums=00E6FF&currStreakLabel=00E6FF&sideLabels=00E6FF&dates=FFFFFF"/>
+    <td width="50%">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=nirussvn0&theme=highcontrast&hide_border=true&background=0F0F1B&stroke=00E6FF&ring=FF007A&fire=FF007A&currStreakNum=00E6FF&sideNums=00E6FF&currStreakLabel=00E6FF&sideLabels=00E6FF&dates=FFFFFF" width="100%" alt="Streak Stats" />
     </td>
-    <td style="width: 49%;">
-      <img style="float: right; width:100%;" 
-           src="https://github-readme-stats.vercel.app/api?username=nirussvn0&show_icons=true&locale=en&theme=highcontrast&hide_border=true&bg_color=0F0F1B&title_color=00E6FF&text_color=FFFFFF&icon_color=FF007A"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <div align="center">
-        <img src="https://github-trophies.vercel.app/?username=NirussVn0&theme=tokyonight&no-frame=true&order=4"/>
-      </div>
+    <td width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nirussvn0&show_icons=true&locale=en&theme=highcontrast&hide_border=true&bg_color=0F0F1B&title_color=00E6FF&text_color=FFFFFF&icon_color=FF007A" width="100%" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nirussvn0&theme=highcontrast&bg_color=0F0F1B&color=00E6FF&line=FF007A&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=NirussVn0&theme=tokyonight&no-frame=true&order=4" width="100%" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirussvn0&theme=highcontrast&bg_color=0F0F1B&color=00E6FF&line=FF007A&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <br/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-    
-```bash
+```
  $ echo "Thanks for visiting! 🚀"
 Thanks for visiting! 🚀
  $ git add . && git commit -m "Another code, another bug" && git push origin main
 [main n1r42s] Another code, another bug
  $ reboot #cya
 ```
-</div>
