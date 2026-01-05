@@ -71,13 +71,8 @@
     <td width="48%">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nirussvn0&layout=compact&theme=highcontrast&bg_color=0F0F1B&title_color=00E6FF&text_color=FFFFFF&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
     </td>
-    <td width="4%"></td>
-    <td width="48%">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=nirussvn0&theme=highcontrast&hide_border=true&background=0F0F1B&stroke=00E6FF&ring=FF007A&fire=FF007A&currStreakNum=00E6FF&sideNums=00E6FF&currStreakLabel=00E6FF&sideLabels=00E6FF&dates=FFFFFF" width="100%" alt="Streak Stats" />
-    </td>
   </tr>
 </table>
-## 📊 GitHub Stats
 
 <table width="100%">
   <tr>
