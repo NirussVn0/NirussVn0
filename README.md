@@ -66,35 +66,19 @@
 
 ## 💻 Languages I've Coded With
 
-**TypeScript** ![TypeScript](https://img.shields.io/badge/TypeScript-17%20projects-3178C6?style=flat-square)
+<div align="center">
 
-```
-████████████████████░░░░░░░░░░░░░░░░░░░░░░░░ 43.6%
-```
+![TypeScript](https://img.shields.io/badge/TypeScript-17%20projects-3178C6?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-4%20projects-F7DF1E?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Python-4%20projects-3776AB?style=flat-square&logo=python)
+![HTML](https://img.shields.io/badge/HTML-2%20projects-E34C26?style=flat-square&logo=html5)
+![Java](https://img.shields.io/badge/Java-1%20project-007396?style=flat-square&logo=java)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-1%20project-2496ED?style=flat-square&logo=docker)
+![Astro](https://img.shields.io/badge/Astro-1%20project-FF5D01?style=flat-square&logo=astro)
+![QML](https://img.shields.io/badge/QML-1%20project-41CD52?style=flat-square&logo=qt)
+![Shell](https://img.shields.io/badge/Shell-1%20project-121011?style=flat-square&logo=gnu-bash)
 
-**JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-4%20projects-F7DF1E?style=flat-square)
-
-```
-██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10.3%
-```
-
-**Python** ![Python](https://img.shields.io/badge/Python-4%20projects-3776AB?style=flat-square)
-
-```
-██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10.3%
-```
-
-**HTML** ![HTML](https://img.shields.io/badge/HTML-2%20projects-E34C26?style=flat-square)
-
-```
-███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 5.1%
-```
-
-**Other Languages** (Java, Dockerfile, Astro, QML, Shell)
-
-```
-████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 20.5%
-```
+</div>
 
 ## 📊 GitHub Stats
 
