@@ -77,7 +77,8 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=nirussvn0&theme=highcontrast&hide_border=true&background=0F0F1B&stroke=00E6FF&ring=FF007A&fire=FF007A&currStreakNum=00E6FF&sideNums=00E6FF&currStreakLabel=00E6FF&sideLabels=00E6FF&dates=FFFFFF" width="100%" alt="Streak Stats" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nirussvn0&theme=highcontrast&hide_border=true&background=0F0F1B&stroke=00E6FF&ring=FF007A&fire=FF007A&currStreakNum=00E6FF&sideNums=00E6FF&currStreakLabel=00E6FF&sideLabels=00E6FF&dates=FFFFFF" width="100%" alt="Streak Stats"
+        />
     </td>
     <td width="50%">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nirussvn0&show_icons=true&locale=en&theme=highcontrast&hide_border=true&bg_color=0F0F1B&title_color=00E6FF&text_color=FFFFFF&icon_color=FF007A" width="100%" alt="GitHub Stats" />
