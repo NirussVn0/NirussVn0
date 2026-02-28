@@ -56,23 +56,38 @@
 </tr>
 </table>
 
-## 🛠️ My Proficiency
 
+
+
+## 💻 Languages & Tools I've Built With
+<p align="center">
+  I pick up new tech fast when it’s interesting — but these are the tools I reach for the most when I’m shipping real projects.
+  <br/>
 <h3 align="center"> Fullstack Dev - Fintech - AI - UI/UX - Designer </h3>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,nuxtjs,tailwindcss,nodejs,python,mongodb,cs,cpp,rust,linux,git,docker,kubernetes&theme=dark&perline=7" />
-</div>
-
-## 💻 Languages I've Coded With
+</p>
 
 <table width="100%" align="center">
   <tr>
-    <td width="48%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nirussvn0&layout=compact&theme=highcontrast&bg_color=0F0F1B&title_color=00E6FF&text_color=FFFFFF&hide_border=true&langs_count=8" width="100%" alt="Top Languages" />
+    <td width="60%">
+      <div align="center">
+        <img
+          src="https://skillicons.dev/icons?i=nextjs,nestjs,nuxtjs,tailwind,vue,nodejs,python,cs,cpp,java,electron,go,linux,git,docker,kubernetes,mongodb,postgres,redis,prisma,supabase&theme=dark&perline=7"
+        />
+      </div>
+    </td>
+    <td width="40%">
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nirussvn0&layout=compact&theme=highcontrast&bg_color=0F0F1B&title_color=00E6FF&text_color=FFFFFF&hide_border=true&langs_count=8"
+        width="100%"
+        alt="Top Languages"
+      />
     </td>
   </tr>
 </table>
+
+
+## 🛠️ My Proficiency
 
 <table width="100%">
   <tr>
